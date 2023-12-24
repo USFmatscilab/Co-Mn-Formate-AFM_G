@@ -1,0 +1,81 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     8.9934800000
+_cell_length_b     7.8141400000
+_cell_length_c     11.6773100000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma  90.0000000000
+_cell_volume       820.6382786293
+
+_space_group_magn.number_BNS "33.144"
+_space_group_magn.name_UNI "Pna2_1.1"
+_space_group_magn.name_BNS "Pna2_1"
+_space_group_magn.number_OG "33.1.226"
+_space_group_magn.name_OG "Pna2_1"
+_space_group_magn.point_group_number_Litvin "7.1.20"
+_space_group_magn.point_group_name_UNI "mm2.1"
+
+loop_
+_space_group_magn_transforms.id
+_space_group_magn_transforms.Pp_abc
+_space_group_magn_transforms.source
+1 a,b,c;0,0,0 "BNS"
+2 a,b,c;0,0,0 "OG"
+
+loop_
+_space_group_symop_magn_operation.id
+_space_group_symop_magn_operation.xyz
+1 x,y,z,+1 
+2 -x,-y,z+1/2,+1 
+3 -x+1/2,y+1/2,z+1/2,+1 
+4 x+1/2,-y+1/2,z,+1 
+
+loop_
+_space_group_symop_magn_centering.id
+_space_group_symop_magn_centering.xyz
+1 x,y,z,+1 
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Mn1 Mn   4 a  0.04935 -0.00167  0.11127  1.00000 Dx,Dy,Dz 
+O1  O    4 a  0.83314 -0.07540  0.18515  1.00000 Dx,Dy,Dz 
+O2  O    4 a  0.64344  0.73859  0.18207  1.00000 Dx,Dy,Dz 
+O3  O    4 a -0.04878  0.23216  0.03866  1.00000 Dx,Dy,Dz 
+O4  O    4 a  0.76336  0.42097  0.03646  1.00000 Dx,Dy,Dz 
+O5  O    4 a  0.07528  0.15511  0.27033  1.00000 Dx,Dy,Dz 
+O6  O    4 a  0.00272  0.14668  0.45429  1.00000 Dx,Dy,Dz 
+C1  C    4 a  0.77758  0.78103  0.15972  1.00000 Dx,Dy,Dz 
+C2  C    4 a  0.83319  0.29493  0.08036  1.00000 Dx,Dy,Dz 
+C3  C    4 a  0.04605  0.07510  0.36286  1.00000 Dx,Dy,Dz 
+H1  H    4 a  0.84758  0.68602  0.11467  1.00000 Dx,Dy,Dz 
+H2  H    4 a  0.78737  0.23752  0.15939  1.00000 Dx,Dy,Dz 
+H3  H    4 a  0.05988 -0.06555  0.36259  1.00000 Dx,Dy,Dz 
+H4  H    4 a  0.57877  0.12581  0.30190  1.00000 Dx,Dy,Dz 
+H5  H    4 a  0.58328 -0.09063  0.27437  1.00000 Dx,Dy,Dz 
+H6  H    4 a  0.64618 -0.01576  0.40211  1.00000 Dx,Dy,Dz 
+H7  H    4 a  0.40283  0.10303  0.42717  1.00000 Dx,Dy,Dz 
+H8  H    4 a  0.42150  0.89356  0.44156  1.00000 Dx,Dy,Dz 
+N1  N    4 a  0.56651  0.00266  0.33750  1.00000 Dx,Dy,Dz 
+N2  N    4 a  0.41631 -0.00919  0.38216  1.00000 Dx,Dy,Dz 
+
+loop_
+_atom_site_moment.label
+_atom_site_moment.crystalaxis_x
+_atom_site_moment.crystalaxis_y
+_atom_site_moment.crystalaxis_z
+_atom_site_moment.symmform
+Mn1  1.00000  0.00000  0.00000 Mx,My,Mz 
+
+# end of cif
